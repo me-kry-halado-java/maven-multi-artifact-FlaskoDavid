@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/calculator-console/calculator-console.iml" filepath="$PROJECT_DIR$/calculator-console/calculator-console.iml" />
+      <module fileurl="file://$PROJECT_DIR$/calculator-logic/calculator-logic.iml" filepath="$PROJECT_DIR$/calculator-logic/calculator-logic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/calculator-parent/calculator-parent.iml" filepath="$PROJECT_DIR$/calculator-parent/calculator-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/maven-multi-artifact-FlaskoDavid.iml" filepath="$PROJECT_DIR$/.idea/maven-multi-artifact-FlaskoDavid.iml" />
+    </modules>
+  </component>
+</project>
