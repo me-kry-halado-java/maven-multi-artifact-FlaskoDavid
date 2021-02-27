@@ -16,6 +16,7 @@
       <module name="calculator-parent" target="1.7" />
       <module name="maven-multi-artifact-FlaskoDavid" target="1.5" />
       <module name="maven-multi-artifact-FlaskoDavid (1)" target="1.7" />
+      <module name="test" target="1.7" />
     </bytecodeTargetLevel>
   </component>
 </project>
