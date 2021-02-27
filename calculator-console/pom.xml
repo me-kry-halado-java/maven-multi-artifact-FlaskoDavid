@@ -5,7 +5,7 @@
   <modelVersion>4.0.0</modelVersion>
 
   <parent>
-    <groupId>hu.meiit.haladojava.calculator</groupId>
+    <groupId>maven-multi-artifact-FlaskoDavid</groupId>
     <artifactId>calculator-parent</artifactId>
     <version>1.0-SNAPSHOT</version>
     <relativePath>../calculator-parent</relativePath>
@@ -18,7 +18,7 @@
 
   <dependencies>
     <dependency>
-      <groupId>hu.meiit.haladojava.calculator</groupId>
+      <groupId>maven-multi-artifact-FlaskoDavid</groupId>
       <artifactId>calculator-logic</artifactId>
       <version>1.0-SNAPSHOT</version>
     </dependency>
