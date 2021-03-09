@@ -1,4 +1,4 @@
-package hu.meiit.haladojava.calculator.console;
+package hu.meiit.haladojava.calculator;
 
 import hu.meiit.haladojava.calculator.logic.Executor;
 import hu.meiit.haladojava.calculator.logic.Expression;
