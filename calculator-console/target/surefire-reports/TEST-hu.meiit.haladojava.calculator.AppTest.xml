@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="hu.meiit.haladojava.calculator.AppTest" time="0.038" tests="1" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="hu.meiit.haladojava.calculator.AppTest" time="0.033" tests="1" errors="0" skipped="0" failures="0">
   <properties>
     <property name="java.specification.version" value="15"/>
     <property name="sun.cpu.isalist" value="amd64"/>
     <property name="sun.jnu.encoding" value="Cp1250"/>
-    <property name="java.class.path" value="C:\Users\flask\IdeaProjects\maven-multi-artifact-FlaskoDavid\calculator-console\target\test-classes;C:\Users\flask\IdeaProjects\maven-multi-artifact-FlaskoDavid\calculator-console\target\classes;C:\Users\flask\IdeaProjects\maven-multi-artifact-FlaskoDavid\calculator-logic\target\calculator-logic-1.0-SNAPSHOT.jar;C:\Users\flask\.m2\repository\junit\junit\4.11\junit-4.11.jar;C:\Users\flask\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;"/>
+    <property name="java.class.path" value="C:\Users\flask\IdeaProjects\maven-multi-artifact-FlaskoDavid\calculator-console\target\test-classes;C:\Users\flask\IdeaProjects\maven-multi-artifact-FlaskoDavid\calculator-console\target\classes;C:\Users\flask\.m2\repository\hu\meiit\haladojava\calculator\calculator-logic\1.0-SNAPSHOT\calculator-logic-1.0-SNAPSHOT.jar;C:\Users\flask\.m2\repository\junit\junit\4.11\junit-4.11.jar;C:\Users\flask\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;"/>
     <property name="java.vm.vendor" value="Oracle Corporation"/>
     <property name="sun.arch.data.model" value="64"/>
     <property name="user.variant" value=""/>
@@ -15,9 +15,9 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="HU"/>
     <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk-15.0.2\bin"/>
-    <property name="sun.java.command" value="C:\Users\flask\AppData\Local\Temp\surefire16387363765933353958\surefirebooter10517578767234514449.jar C:\Users\flask\AppData\Local\Temp\surefire16387363765933353958 2021-02-27T14-15-55_314-jvmRun1 surefire1344021151401236765tmp surefire_17797622234665512811tmp"/>
+    <property name="sun.java.command" value="C:\Users\flask\AppData\Local\Temp\surefire12755947436688035169\surefirebooter17327693613361802873.jar C:\Users\flask\AppData\Local\Temp\surefire12755947436688035169 2021-02-27T14-18-31_830-jvmRun1 surefire7344551407213075621tmp surefire_07798921619400563082tmp"/>
     <property name="jdk.debug" value="release"/>
-    <property name="surefire.test.class.path" value="C:\Users\flask\IdeaProjects\maven-multi-artifact-FlaskoDavid\calculator-console\target\test-classes;C:\Users\flask\IdeaProjects\maven-multi-artifact-FlaskoDavid\calculator-console\target\classes;C:\Users\flask\IdeaProjects\maven-multi-artifact-FlaskoDavid\calculator-logic\target\calculator-logic-1.0-SNAPSHOT.jar;C:\Users\flask\.m2\repository\junit\junit\4.11\junit-4.11.jar;C:\Users\flask\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;"/>
+    <property name="surefire.test.class.path" value="C:\Users\flask\IdeaProjects\maven-multi-artifact-FlaskoDavid\calculator-console\target\test-classes;C:\Users\flask\IdeaProjects\maven-multi-artifact-FlaskoDavid\calculator-console\target\classes;C:\Users\flask\.m2\repository\hu\meiit\haladojava\calculator\calculator-logic\1.0-SNAPSHOT\calculator-logic-1.0-SNAPSHOT.jar;C:\Users\flask\.m2\repository\junit\junit\4.11\junit-4.11.jar;C:\Users\flask\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;"/>
     <property name="sun.cpu.endian" value="little"/>
     <property name="user.home" value="C:\Users\flask"/>
     <property name="user.language" value="hu"/>
@@ -30,7 +30,7 @@
     <property name="line.separator" value="&#10;"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
-    <property name="surefire.real.class.path" value="C:\Users\flask\AppData\Local\Temp\surefire16387363765933353958\surefirebooter10517578767234514449.jar"/>
+    <property name="surefire.real.class.path" value="C:\Users\flask\AppData\Local\Temp\surefire12755947436688035169\surefirebooter17327693613361802873.jar"/>
     <property name="user.script" value=""/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="java.runtime.version" value="15.0.2+7-27"/>
@@ -43,7 +43,6 @@
     <property name="localRepository" value="C:\Users\flask\.m2\repository"/>
     <property name="java.vendor.url.bug" value="https://bugreport.java.com/bugreport/"/>
     <property name="java.io.tmpdir" value="C:\Users\flask\AppData\Local\Temp\"/>
-    <property name="idea.version" value="2020.3.2"/>
     <property name="java.version" value="15.0.2"/>
     <property name="user.dir" value="C:\Users\flask\IdeaProjects\maven-multi-artifact-FlaskoDavid\calculator-console"/>
     <property name="os.arch" value="amd64"/>
@@ -56,5 +55,5 @@
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="java.class.version" value="59.0"/>
   </properties>
-  <testcase name="shouldAnswerWithTrue" classname="hu.meiit.haladojava.calculator.AppTest" time="0.001"/>
+  <testcase name="shouldAnswerWithTrue" classname="hu.meiit.haladojava.calculator.AppTest" time="0.002"/>
 </testsuite>
